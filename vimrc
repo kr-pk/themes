@@ -1,0 +1,10 @@
+syntax on
+set number
+set shiftwidth=4
+set tabstop=4
+set incsearch
+set ignorecase
+set hlsearch
+set showmatch
+set wildmenu
+set showcmd
